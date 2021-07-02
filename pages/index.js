@@ -20,7 +20,7 @@ export default function Home() {
         />
       </Head>
 
-      <main className='h-full flex flex-col '>
+      <main className='h-full min-w-full '>
         <Header />
         <PageContent />
         <Footer />
